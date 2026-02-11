@@ -1,0 +1,30 @@
+{
+  "2026-02-11": {
+    "todos": [
+      {
+        "text": "吃饭",
+        "done": false
+      },
+      {
+        "text": "睡觉",
+        "done": false
+      },
+      {
+        "text": "想铁宝",
+        "done": false
+      }
+    ]
+  },
+  "_meta": {
+    "last_saved_at": "2026-02-11 11:12:31",
+    "last_saved_by": "unknown"
+  },
+  "2026-02-19": {
+    "todos": [
+      {
+        "text": "想铁宝",
+        "done": false
+      }
+    ]
+  }
+}
